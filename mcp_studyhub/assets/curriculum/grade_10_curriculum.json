@@ -1,0 +1,89 @@
+{
+  "grade": 10,
+  "subjects": [
+    {
+      "name": "Physics",
+      "iconAsset": "assets/icons/physics.png",
+      "chapters": [
+        {
+          "id": "phys_10_01",
+          "title": "Light – Reflection and Refraction",
+          "concepts": ["Laws of Reflection", "Spherical Mirrors", "Refraction", "Lens Formula", "Power of a Lens"],
+          "estimatedTime": "45min"
+        },
+        {
+          "id": "phys_10_02",
+          "title": "The Human Eye and the Colourful World",
+          "concepts": ["Structure of the Eye", "Defects of Vision", "Dispersion of Light", "Atmospheric Refraction", "Scattering"],
+          "estimatedTime": "40min"
+        },
+        {
+          "id": "phys_10_03",
+          "title": "Electricity",
+          "concepts": ["Ohm's Law", "Resistance", "Series and Parallel Circuits", "Heating Effect", "Power"],
+          "estimatedTime": "60min"
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "iconAsset": "assets/icons/math.png",
+      "chapters": [
+        {
+          "id": "math_10_01",
+          "title": "Real Numbers",
+          "concepts": ["Euclid's Division Lemma", "Fundamental Theorem of Arithmetic", "HCF and LCM", "Irrational Numbers"],
+          "estimatedTime": "60min"
+        },
+        {
+          "id": "math_10_02",
+          "title": "Polynomials",
+          "concepts": ["Zeroes of a Polynomial", "Relationship between Zeroes and Coefficients", "Division Algorithm"],
+          "estimatedTime": "50min"
+        },
+        {
+          "id": "math_10_03",
+          "title": "Quadratic Equations",
+          "concepts": ["Standard Form", "Factorisation Method", "Completing the Square", "Quadratic Formula", "Discriminant"],
+          "estimatedTime": "55min"
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "iconAsset": "assets/icons/chemistry.png",
+      "chapters": [
+        {
+          "id": "chem_10_01",
+          "title": "Chemical Reactions and Equations",
+          "concepts": ["Balancing Equations", "Types of Reactions", "Combination", "Decomposition", "Displacement", "Redox"],
+          "estimatedTime": "50min"
+        },
+        {
+          "id": "chem_10_02",
+          "title": "Acids, Bases and Salts",
+          "concepts": ["Properties of Acids and Bases", "pH Scale", "Neutralisation", "Salts", "Baking Soda", "Bleaching Powder"],
+          "estimatedTime": "55min"
+        }
+      ]
+    },
+    {
+      "name": "Biology",
+      "iconAsset": "assets/icons/biology.png",
+      "chapters": [
+        {
+          "id": "bio_10_01",
+          "title": "Life Processes",
+          "concepts": ["Nutrition", "Respiration", "Transportation", "Excretion", "Photosynthesis"],
+          "estimatedTime": "60min"
+        },
+        {
+          "id": "bio_10_02",
+          "title": "Control and Coordination",
+          "concepts": ["Nervous System", "Reflex Arc", "Human Brain", "Hormones", "Endocrine Glands"],
+          "estimatedTime": "55min"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "grade": 12,
+  "subjects": [
+    {
+      "name": "Physics",
+      "iconAsset": "assets/icons/physics.png",
+      "chapters": [
+        {
+          "id": "phys_12_01",
+          "title": "Electric Charges and Fields",
+          "concepts": ["Coulomb's Law", "Electric Field", "Electric Field Lines", "Gauss's Law", "Electric Dipole"],
+          "estimatedTime": "90min"
+        },
+        {
+          "id": "phys_12_02",
+          "title": "Electrostatic Potential and Capacitance",
+          "concepts": ["Electric Potential", "Potential Energy", "Capacitors", "Dielectrics", "Energy Stored"],
+          "estimatedTime": "85min"
+        },
+        {
+          "id": "phys_12_03",
+          "title": "Current Electricity",
+          "concepts": ["Drift Velocity", "Ohm's Law", "Resistivity", "Kirchhoff's Laws", "Wheatstone Bridge"],
+          "estimatedTime": "80min"
+        }
+      ]
+    },
+    {
+      "name": "Mathematics",
+      "iconAsset": "assets/icons/math.png",
+      "chapters": [
+        {
+          "id": "math_12_01",
+          "title": "Relations and Functions",
+          "concepts": ["Types of Relations", "Types of Functions", "Composition", "Inverse Functions", "Binary Operations"],
+          "estimatedTime": "70min"
+        },
+        {
+          "id": "math_12_02",
+          "title": "Calculus – Derivatives",
+          "concepts": ["Limits", "Continuity", "Differentiability", "Chain Rule", "Implicit Differentiation", "Applications"],
+          "estimatedTime": "90min"
+        },
+        {
+          "id": "math_12_03",
+          "title": "Integrals",
+          "concepts": ["Indefinite Integrals", "Methods of Integration", "Definite Integrals", "Fundamental Theorem", "Applications of Integration"],
+          "estimatedTime": "90min"
+        }
+      ]
+    },
+    {
+      "name": "Computer Science",
+      "iconAsset": "assets/icons/cs.png",
+      "chapters": [
+        {
+          "id": "cs_12_01",
+          "title": "Python Revision Tour",
+          "concepts": ["Tokens", "Data Types", "Flow of Control", "Functions", "Strings", "Lists"],
+          "estimatedTime": "60min"
+        },
+        {
+          "id": "cs_12_02",
+          "title": "Data Structures in Python",
+          "concepts": ["Stacks", "Queues", "Linked Lists", "Searching Algorithms", "Sorting Algorithms"],
+          "estimatedTime": "75min"
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "iconAsset": "assets/icons/chemistry.png",
+      "chapters": [
+        {
+          "id": "chem_12_01",
+          "title": "Electrochemistry",
+          "concepts": ["Electrochemical Cells", "Galvanic Cells", "Nernst Equation", "Electrolysis", "Kohlrausch's Law"],
+          "estimatedTime": "80min"
+        },
+        {
+          "id": "chem_12_02",
+          "title": "Chemical Kinetics",
+          "concepts": ["Rate of Reaction", "Rate Law", "Order of Reaction", "Activation Energy", "Arrhenius Equation"],
+          "estimatedTime": "75min"
+        }
+      ]
+    }
+  ]
+}

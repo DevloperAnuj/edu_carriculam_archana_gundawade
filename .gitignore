@@ -1,0 +1,30 @@
+# Flutter build output
+mcp_studyhub/build/
+mcp_studyhub/.dart_tool/
+mcp_studyhub/.flutter-plugins-dependencies
+mcp_studyhub/.pub-cache/
+mcp_studyhub/.pub/
+mcp_studyhub/windows/flutter/ephemeral/
+
+# IntelliJ / Android Studio
+mcp_studyhub/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Python
+mcp_server/__pycache__/
+mcp_server/*.pyc
+*.pyc
+*.pyo
+.env
+
+# xAPI runtime log (generated at runtime, not source)
+mcp_server/xapi_statements.json
+
+# Teacher curriculum additions (local runtime data)
+mcp_studyhub/teacher_curriculum_additions.json
+
+# OS
+.DS_Store
+Thumbs.db
