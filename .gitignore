@@ -28,3 +28,6 @@ mcp_studyhub/teacher_curriculum_additions.json
 # OS
 .DS_Store
 Thumbs.db
+
+# Survay Data
+SurvayScrapper/
