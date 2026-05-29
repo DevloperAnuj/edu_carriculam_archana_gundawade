@@ -1,0 +1,211 @@
+
+======================================================================
+DETAILED STATISTICS REPORT
+======================================================================
+
+1. Q1 - Confidence Score Distribution:
+----------------------------------------------------------------------
+
+High Performer:
+  Mean: 9.06
+  Median: 9.00
+  Range: 8 - 10
+
+At Risk:
+  Mean: 1.88
+  Median: 2.00
+  Range: 1 - 3
+
+Average:
+  Mean: 5.41
+  Median: 5.00
+  Range: 4 - 7
+
+
+2. Q2 - Phone Checks Distribution by Profile:
+----------------------------------------------------------------------
+
+High Performer:
+  1-3: 265 (86.9%)
+  4-6: 40 (13.1%)
+
+At Risk:
+  4-6: 142 (58.9%)
+  7+: 99 (41.1%)
+
+Average:
+  4-6: 228 (50.2%)
+  1-3: 182 (40.1%)
+  7+: 44 (9.7%)
+
+
+3. Q6 - Persistence (Minutes) Distribution:
+----------------------------------------------------------------------
+
+High Performer:
+  Mean: 32.38 minutes
+  Median: 32.00 minutes
+  Range: 20 - 45 minutes
+
+At Risk:
+  Mean: 5.90 minutes
+  Median: 6.00 minutes
+  Range: 2 - 10 minutes
+
+Average:
+  Mean: 15.04 minutes
+  Median: 15.00 minutes
+  Range: 10 - 20 minutes
+
+
+4. Institute Distribution:
+----------------------------------------------------------------------
+
+10th Grade:
+  Podar International: 138
+  Tilak High School: 125
+  Shri Shivaji Vidyalaya: 119
+  Holy Family Convent: 118
+
+12th Grade:
+  SGM College: 130
+  YCC: 127
+  JK Academy: 124
+  Ligade-Patil Jr. College: 119
+
+
+5. Q9 - AI Tool Usage by Profile:
+----------------------------------------------------------------------
+
+High Performer:
+  Regularly: 117 (38.4%)
+  Occasionally: 95 (31.1%)
+  Daily: 81 (26.6%)
+  Never: 12 (3.9%)
+
+At Risk:
+  Occasionally: 99 (41.1%)
+  Never: 88 (36.5%)
+  Regularly: 34 (14.1%)
+  Daily: 20 (8.3%)
+
+Average:
+  Occasionally: 215 (47.4%)
+  Regularly: 109 (24.0%)
+  Never: 105 (23.1%)
+  Daily: 25 (5.5%)
+
+Q9 - AI Tool Usage by Grade:
+
+Grade 10:
+  Occasionally: 209 (41.8%)
+  Regularly: 120 (24.0%)
+  Never: 113 (22.6%)
+  Daily: 58 (11.6%)
+
+Grade 12:
+  Occasionally: 200 (40.0%)
+  Regularly: 140 (28.0%)
+  Never: 92 (18.4%)
+  Daily: 68 (13.6%)
+
+
+6. Q10 - AI Trust Score by Profile:
+----------------------------------------------------------------------
+
+High Performer:
+  Mean: 3.86
+  Median: 4.00
+  Range: 1 - 5
+
+At Risk:
+  Mean: 2.80
+  Median: 3.00
+  Range: 1 - 5
+
+Average:
+  Mean: 3.26
+  Median: 3.00
+  Range: 1 - 5
+
+
+7. Q14 - Hardest Subject by Profile:
+----------------------------------------------------------------------
+
+High Performer:
+  Physics: 78 (25.6%)
+  Mathematics: 62 (20.3%)
+  Chemistry: 59 (19.3%)
+  Computer Science: 54 (17.7%)
+  Biology: 52 (17.0%)
+
+At Risk:
+  Physics: 83 (34.4%)
+  Mathematics: 69 (28.6%)
+  Chemistry: 34 (14.1%)
+  Biology: 29 (12.0%)
+  Computer Science: 26 (10.8%)
+
+Average:
+  Physics: 132 (29.1%)
+  Mathematics: 119 (26.2%)
+  Chemistry: 102 (22.5%)
+  Biology: 57 (12.6%)
+  Computer Science: 44 (9.7%)
+
+Q14 - Hardest Subject by Grade:
+
+Grade 10:
+  Physics: 135 (27.0%)
+  Mathematics: 131 (26.2%)
+  Chemistry: 125 (25.0%)
+  Biology: 85 (17.0%)
+  Computer Science: 24 (4.8%)
+
+Grade 12:
+  Physics: 158 (31.6%)
+  Mathematics: 119 (23.8%)
+  Computer Science: 100 (20.0%)
+  Chemistry: 70 (14.0%)
+  Biology: 53 (10.6%)
+
+
+8. Q8 & Q15 - Learning Style and Help Seeking by Profile:
+----------------------------------------------------------------------
+
+High Performer — Learning Style (Q8):
+  Kinesthetic: 92 (30.2%)
+  Auditory: 81 (26.6%)
+  Visual: 72 (23.6%)
+  Read-Write: 60 (19.7%)
+High Performer — Help Seeking (Q15):
+  Use ChatGPT/AI: 140 (45.9%)
+  Ask a teacher: 65 (21.3%)
+  Search YouTube: 61 (20.0%)
+  Ask a friend: 39 (12.8%)
+
+At Risk — Learning Style (Q8):
+  Auditory: 75 (31.1%)
+  Visual: 74 (30.7%)
+  Kinesthetic: 50 (20.7%)
+  Read-Write: 42 (17.4%)
+At Risk — Help Seeking (Q15):
+  Search YouTube: 94 (39.0%)
+  Give up: 75 (31.1%)
+  Ask a friend: 52 (21.6%)
+  Ask a teacher: 16 (6.6%)
+  Use ChatGPT/AI: 4 (1.7%)
+
+Average — Learning Style (Q8):
+  Auditory: 121 (26.7%)
+  Kinesthetic: 119 (26.2%)
+  Visual: 112 (24.7%)
+  Read-Write: 102 (22.5%)
+Average — Help Seeking (Q15):
+  Search YouTube: 193 (42.5%)
+  Ask a friend: 100 (22.0%)
+  Ask a teacher: 95 (20.9%)
+  Use ChatGPT/AI: 43 (9.5%)
+  Give up: 23 (5.1%)
+
+======================================================================

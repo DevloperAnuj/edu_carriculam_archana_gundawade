@@ -1,0 +1,52 @@
+STUDENT DATA SUMMARY STATISTICS
+======================================================================
+
+Total Students: 1000
+10th Grade: 500
+12th Grade: 500
+
+Profile Distribution:
+  average: 454 (45.4%)
+  high_performer: 305 (30.5%)
+  at_risk: 241 (24.1%)
+
+Confidence Score Statistics:
+  Mean: 5.67
+  Median: 6.00
+  Std Dev: 2.81
+
+Persistence Statistics:
+  Mean: 18.13 minutes
+  Median: 16.00 minutes
+  Std Dev: 11.19 minutes
+
+AI Tool Usage Distribution (Q9):
+  Occasionally: 409 (40.9%)
+  Regularly: 260 (26.0%)
+  Never: 205 (20.5%)
+  Daily: 126 (12.6%)
+
+AI Trust Score Statistics (Q10):
+  Mean: 3.33
+  Median: 3.00
+  Std Dev: 1.11
+
+Hardest Subject Distribution (Q14):
+  Physics: 293 (29.3%)
+  Mathematics: 250 (25.0%)
+  Chemistry: 195 (19.5%)
+  Biology: 138 (13.8%)
+  Computer Science: 124 (12.4%)
+
+Help Seeking Behaviour Distribution (Q15):
+  Search YouTube: 348 (34.8%)
+  Ask a friend: 191 (19.1%)
+  Use ChatGPT/AI: 187 (18.7%)
+  Ask a teacher: 176 (17.6%)
+  Give up: 98 (9.8%)
+
+Learning Style (VARK) Distribution (Q8):
+  Auditory: 277 (27.7%)
+  Kinesthetic: 261 (26.1%)
+  Visual: 258 (25.8%)
+  Read-Write: 204 (20.4%)
